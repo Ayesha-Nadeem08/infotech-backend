@@ -23,7 +23,6 @@ infotech-website-backend/
 ├── database.py # DB session and engine setup
 ├── requirements.txt # Dependencies
 ├── README.md
-
 ---
 
 ## 📦 Features
