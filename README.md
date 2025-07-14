@@ -14,9 +14,10 @@ A secure and scalable backend API for the official InfoTech company website. Bui
 - 🔄 **Swagger UI** – Auto-generated API docs at `/docs`
 
 ---
-```
 
 ## 📁 Project Structure
+
+```
 
 infotech-website-backend/
 ├── main.py # FastAPI entry point
