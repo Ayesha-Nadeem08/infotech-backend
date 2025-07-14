@@ -15,13 +15,6 @@ A secure and scalable backend API for the official InfoTech company website. Bui
 
 ---
 
-## 🚀 Live Demo
-
-> 🔗 **Backend API**: [https://your-api.onrender.com](#)  
-> *(Replace this with your actual Render URL after deployment)*
-
----
-
 ## 📁 Project Structure
 
 infotech-website-backend/
@@ -65,4 +58,4 @@ cd infotech-backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 
-Swagger docs available at: http://127.0.0.1:8000/docs
+> 🔗 **Swagger docs available at**: [ http://127.0.0.1:8000/docs](#)  
