@@ -24,7 +24,6 @@ infotech-website-backend/
 ├── requirements.txt # Dependencies
 ├── README.md
 
-
 ---
 
 ## 📦 Features
