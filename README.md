@@ -55,7 +55,7 @@ infotech-website-backend/
 ## 🛠️ Local Setup
 
 ```bash
-git clone https://github.com/your-username/infotech-backend.git
+git clone https://github.com/Ayesha-Nadeem08/infotech-backend.git
 cd infotech-backend
 pip install -r requirements.txt
 uvicorn main:app --reload
